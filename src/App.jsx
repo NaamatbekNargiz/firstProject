@@ -12,6 +12,7 @@ export default function App() {
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       ></iframe>
+      <p>bye bye!</p>
     </div>
   );
 }
